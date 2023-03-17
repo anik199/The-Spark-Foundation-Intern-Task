@@ -8,10 +8,16 @@
 - **Task 3:** [![Open in Tableau](https://img.shields.io/badge/Open%20in-Tableau-blue)](https://public.tableau.com/app/profile/anik.kumar/viz/GlobalSalesDashboard_16555865237750/GlobalSalesDashboard) **Task 4:** [![Open in Tableau](https://img.shields.io/badge/Open%20in-Tableau-blue)](https://public.tableau.com/app/profile/anik.kumar/viz/ProfitAnalysisSuperstore/ProfitAnalysisSuperstore) 
 **Task 5:** [![Open in Tableau](https://img.shields.io/badge/Open%20in-Tableau-blue)](https://public.tableau.com/app/profile/anik.kumar/viz/Covid-19BangladeshDashboardCoronavirus/COVID-19BANGLADESHOVERVIEW) 
 
+This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
+- **Internship Category** - Data Science and Business Analytics
+- **Internship Duration** - 2 Month (Feb-Mar, 2022 )
+- **Internship Type** - Work from Home
+
+
 
 
 ## Introduction
-This is a repository for the projects that I completed during my internship with The Spark Foundation. The projects are related to data science and business analytics.
+This is a repository for the projects that I completed during my internship with The Spark Foundation. In this internship, I was provided a total of 6 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
 
 ## Projects
 The repository contains the following projects:
@@ -23,6 +29,49 @@ The repository contains the following projects:
 
 
 Each project has its own folder and contains the code, data, and a README file with instructions on how to run the code.
+
+### # Task-1 : Prediction using Supervised ML (Level - Beginner)
+_Please click on the images on right side to view my solution._
+
+1. Predict the percentage of marks of an student based on the number of study hours.
+1. This is a simple linear regression task as it involves just 2 variables.
+1. Data can be found at [http://bit.ly/w](http://bit.ly/w)
+1. You can use R, Python, SAS Enterprise Miner or any other tool.
+1. What will be predicted score if a student studies for 9.25 hrs/ day?
+
+### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
+_Please click on the images on right side to view my solution._
+
+1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+1. Use R or Python or perform this task.
+1. Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)
+
+### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+_Please click on the images on right side to view my solution._
+
+1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
+1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
+
+### # Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
+_Please click on the images on right side to view my solution (preferably youtube)._
+
+1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
+1. As a business manager, try to find out the weak areas where you can work to make more profit.
+1. What all business problems you can derive by exploring the data?
+1. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
+1. Dataset link :[https://bit.ly/3i4rbWl](https://bit.ly/3i4rbWl)
+1. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
+
+### # Task-6 : Timeline Analysis : Covid-19 (Level - Advanced)
+_Please click on the images on right side to view my solution (preferably youtube)._
+
+1. Create a storyboard showing spread of Covid 19 cases in your country or any region (Asia, Europe, BRICS etc)
+1. Use animation, timeline and annotations to create attractive and interactive dashboards and story
+1. Identify interesting patterns and possible reasons helping Covid 19 spread with basic as well as advanced charts
+1. Use Tableau or Power BI for this task
+1. Screen record the completed storyboard along with your audio explaining the charts and giving recommendations.
+1. Dataset: Daily updated .csv file on [https://bit.ly/30d2gdi](https://bit.ly/30d2gdi)
 
 ## Usage
 To use this repository, you will need to have Python and Jupyter Notebook installed on your computer. You can download Python from the Python website and Jupyter Notebook from the Anaconda website.
