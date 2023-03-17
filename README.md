@@ -1,3 +1,5 @@
+<img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
+
 # The Spark Foundation Data Science and Business Analytics Internship
 
 - **Task 1:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anik199/The-Spark-Foundation-Intern-Task/blob/main/Task1.ipynb) **Task 2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anik199/The-Spark-Foundation-Intern-Task/blob/main/Task2.ipynb) **Task 6:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anik199/The-Spark-Foundation-Intern-Task/blob/main/Task6.ipynb)
