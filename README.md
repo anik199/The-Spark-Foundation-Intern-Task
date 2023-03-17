@@ -31,8 +31,6 @@ Once you have Python and Jupyter Notebook installed, you can clone this reposito
 git clone https://github.com/anik199/The-Spark-Foundation-Intern-Task.git
 ```
 
-Replace `your_username` and `your_repository` with your own GitHub username and the name of the repository that you want to clone.
-
 ## Conclusion
 This repository contains a collection of projects that I completed during my internship with The Spark Foundation. The projects cover a wide range of topics related to data science and business analytics and are a great way to learn more about these fields.
 
